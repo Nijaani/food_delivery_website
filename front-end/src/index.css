@@ -22,3 +22,7 @@ body{
     opacity:1;
   }
 }
+
+/* 0% is the start of the animation.
+100% is the end of the animation.
+ opacity: 0 → invisible; opacity: 1 → fully visible.*/
